@@ -1,5 +1,6 @@
 
 def suma_normal(a,b):
+	#eliminar funcion
 	return a+b
 
 
@@ -13,3 +14,6 @@ def suma(*args):
 		total +=i
 
 	return total
+
+
+
